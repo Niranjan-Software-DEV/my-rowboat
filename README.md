@@ -2,33 +2,16 @@
   <img width="1339" height="607" alt="rowboat-github-2" src="https://github.com/user-attachments/assets/fc463b99-01b3-401c-b4a4-044dad480901" />
 </a>
 
-<h5 align="center">
-
-<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
-  <a href="https://trendshift.io/repositories/13609" target="blank">
-    <img src="https://trendshift.io/api/badge/repositories/13609" alt="rowboatlabs/rowboat | Trendshift" width="250" height="55"/>
-  </a>
-</p>
-
-<p align="center">
-    <a href="https://www.rowboatlabs.com/" target="_blank" rel="noopener">
-    <img alt="Website" src="https://img.shields.io/badge/Website-10b981?labelColor=10b981&logo=window&logoColor=white">
-  </a>
-  <a href="https://discord.gg/wajrgmJQ6b" target="_blank" rel="noopener">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&labelColor=5865F2">
-  </a>
-  <a href="https://x.com/intent/user?screen_name=rowboatlabshq" target="_blank" rel="noopener">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/rowboatlabshq?style=social">
-  </a>
-  <a href="https://www.ycombinator.com" target="_blank" rel="noopener">
-    <img alt="Y Combinator" src="https://img.shields.io/badge/Y%20Combinator-S24-orange">
-  </a>
-</p>
-
 # Rowboat  
 **Open-source AI coworker that turns work into a knowledge graph and acts on it**
 
-</h5>
+## 💻 Tech Stack
+- **Framework**: Next.js & React
+- **Language**: TypeScript
+- **Database**: MongoDB
+- **Vector Search**: Qdrant
+- **Deployment**: Docker
+- **Desktop Client**: Electron
 
 Rowboat connects to your email and meeting notes, builds a long-lived knowledge graph, and uses that context to help you get work done - privately, on your machine.
 
